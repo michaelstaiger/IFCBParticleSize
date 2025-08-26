@@ -1,6 +1,7 @@
-# Ignore everything in ifcbdata
+# Ignore everything in ifcbdata and Figs
 ifcbdata/*
+Figs/*
 
 # But keep this placeholder
 !ifcbdata/.gitkeep
-
+!Figs/.gitkeep
