@@ -1,7 +1,13 @@
 # Ignore everything in ifcbdata and Figs
-ifcbdata/*
-Figs/*
+EmpyricalAnalysis/IFCBdata/*
+EmpyricalAnalysis/Figs/*
+Modeling/IFCBdata/*
+Modeling/Figs/*
 
 # But keep this placeholder
-!ifcbdata/.gitkeep
-!Figs/.gitkeep
+!EmpyricalAnalysis/IFCBdata/.gitkeep
+!EmpyricalAnalysis/Figs/.gitkeep
+!Modeling/IFCBdata/.gitkeep
+!Modeling/Figs/.gitkeep
+
+
