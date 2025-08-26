@@ -1,0 +1,6 @@
+# Ignore everything in ifcbdata
+ifcbdata/*
+
+# But keep this placeholder
+!ifcbdata/.gitkeep
+

@@ -1,0 +1,14 @@
+name: carpentries
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - plotnine
+  - plotly
+  - seaborn
+  - pip
