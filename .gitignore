@@ -3,6 +3,8 @@ EmpyricalAnalysis/IFCBdata/*
 EmpyricalAnalysis/Figs/*
 Modeling/IFCBdata/*
 Modeling/Figs/*
+EmpyricalAnalysis/Notebooks/Utils/CSwift_export_annotations_from_pg_classify_only.py
+
 
 # But keep this placeholder
 !EmpyricalAnalysis/IFCBdata/.gitkeep
