@@ -4,6 +4,10 @@ EmpyricalAnalysis/Figs/*
 Modeling/IFCBdata/*
 Modeling/Figs/*
 EmpyricalAnalysis/Notebooks/Utils/CSwift_export_annotations_from_pg_classify_only.py
+.conda/*
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.pyc
 
 
 # But keep this placeholder
