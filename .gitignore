@@ -8,12 +8,13 @@ EmpyricalAnalysis/Notebooks/Utils/CSwift_export_annotations_from_pg_classify_onl
 **/.ipynb_checkpoints/
 **/__pycache__/
 *.pyc
-
+EmpyricalAnalysis/Notebooks/Utils/class_taxonomicSort/data/*
 
 # But keep this placeholder
 !EmpyricalAnalysis/IFCBdata/.gitkeep
 !EmpyricalAnalysis/Figs/.gitkeep
 !Modeling/IFCBdata/.gitkeep
 !Modeling/Figs/.gitkeep
-
+!EmpyricalAnalysis/Notebooks/Utils/class_taxonomicSort/data/raw/.gitkeep
+!EmpyricalAnalysis/Notebooks/Utils/class_taxonomicSort/data/processed/.gitkeep
 
