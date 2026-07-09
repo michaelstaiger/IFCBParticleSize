@@ -28,6 +28,12 @@ For real though use this (I am not chat this is me mike staiger):
 ```bash
  python scripts/01_build_master_dataset.py   --raw-dir data/raw   --map config/class_taxonomy_map.csv   --output data processed/master_particles.parquet
 ```
+
+
+```bash
+ python scripts/01_build_master_dataset.py   --raw-dir /Users/michaelstaiger/Desktop/gitRepos/IFCBParticleSize/EmpyricalAnalysis/IFCBData/nauset/nauset/merged_filtered   --map config/class_taxonomy_map.csv   --output /Users/michaelstaiger/Desktop/gitRepos/IFCBParticleSize/EmpyricalAnalysis/IFCBData/nauset/filtered_master_particles.parquet
+```
+
 this creates a parquret file very similar to csv just faster for long column files like these will be
 
 
